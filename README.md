@@ -2,7 +2,7 @@
 
 Anypoint Code Builder is a web-based integrated development environment (IDE) that has all the power and flexibility of Visual Studio Code along with the Anypoint Code Builder extensions. Anypoint Code Builder provides a modern developer experience for all developers to design, develop, and deploy APIs, integrations, and automations from a single environment.
 
-This public repository is your place to give us feedback or report an issue.
+This repository is your place to give us feedback or report an issue. This is a public repository. We request that you submit an 'Issue' if you are actively using Anypoint Code Builder and have feedback or an issue. If you just have a question or want to chat about Code Builder, head over to our [Trailblazer Discussion Topic|https://trailhead.salesforce.com/trailblazer-community/topics/mulesoftanypointcodebuilder?sort=LAST_MODIFIED_DATE_DESC].
 
 ## We Want Your Feedback
 
