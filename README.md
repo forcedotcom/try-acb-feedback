@@ -18,4 +18,4 @@ When submitting feedback, please remember to follow our [Community Code of Condu
     * [Setup Anypoint Code Builder](https://beta.docs.mulesoft.com/beta-code-builder/anypoint-code-builder/setup).
     * [Get Started with Anypoint Code Builder](https://beta.docs.mulesoft.com/beta-code-builder/anypoint-code-builder/get-started).
 * [Give Feedback](https://github.com/forcedotcom/try-acb-feedback/issues).
-* Have a question about Anypoint Code Builder? Head over to our [Trailblazer Commuity Thread](https://trailhead.salesforce.com/trailblazer-community/topics/mulesoftanypointcodebuilder?sort=LAST_MODIFIED_DATE_DESC).
+* Have a question about Anypoint Code Builder? Head over to our [Trailblazer Commuity Topic](https://trailhead.salesforce.com/trailblazer-community/topics/mulesoftanypointcodebuilder?sort=LAST_MODIFIED_DATE_DESC).
