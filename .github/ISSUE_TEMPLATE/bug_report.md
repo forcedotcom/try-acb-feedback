@@ -11,10 +11,10 @@ assignees: ''
 
 This is not a mechanism for receiving support under any agreement or SLA. If you require immediate assistance, please use official support channels. -->
 
-*Describe the bug*
+**Describe the bug**
 A clear and concise description of the bug. What were you trying to do? What was your goal?
 
-*To Reproduce*
+**To Reproduce**
 Steps to reproduce the behavior:
 
 1. Go to '...'
@@ -22,18 +22,18 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-*Expected behavior*
+**Expected behavior**
 A clear and concise description of what you expected to happen.
 
-*Screenshots/Recordings*
+**Screenshots/Recordings**
 If applicable, add screenshots or recordings to help explain your problem.  They really help!
 
-*Please complete the following information:*
+**Please complete the following information:**
 
 * Anypoint Code Builder web IDE URL
 * Browser [e.g. chrome, safari]
 * Version [e.g. 29] (can be found on Anypoint Code Builder Central page)
 
 
-*Additional context*
+**Additional context**
 Add any other context about the problem here.
