@@ -1,6 +1,6 @@
 ---
 name: General Feedback template
-about: Describe this issue template's purpose here.
+about: Provide general feedback for Anypoint Code Builder
 title: ''
 labels: template:feedback
 assignees: ''

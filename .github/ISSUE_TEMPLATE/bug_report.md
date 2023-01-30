@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a bug for Anypoint Code Builder
 title: ''
 labels: template:bug
 assignees: ''
@@ -24,6 +24,21 @@ Steps to reproduce the behavior:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
+
+**Impact**
+Select from 
+* Crash/Data Loss
+* Malfunctioning
+* Poor Usability
+* Fit & Finish UI
+* Other
+
+**Frequency**
+Select from 
+* Always
+* Often
+* Sometimes
+* Rarely
 
 **Screenshots/Recordings**
 If applicable, add screenshots or recordings to help explain your problem.  They really help!

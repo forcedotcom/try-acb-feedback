@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Share enhancement/feature request for Anypoint Code Builder
 title: ''
 labels: template:enhancement
 assignees: ''
@@ -20,4 +20,7 @@ A clear and concise description of what you want to happen.
 Add any other context or screenshots about the feature request here.
 
 **What priority would you give to this feature request?**
-Must have, Nice to have, Could have
+Select from:
+* Must have
+* Should have
+* Could have
