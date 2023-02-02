@@ -1,0 +1,9 @@
+on: [issues]
+jobs:  
+  greeting:    
+    runs-on: ubuntu-latest    
+    steps:    
+     - uses: actions/first-interaction@v1      
+     with:        
+     repo-token: ${{ secrets.GITHUB_TOKEN }}
+     issue-message: 'Hello @${{ github.actor }} , thank you for submitting an issue - we appreciate your time. Our product team will take a look and give you an update as soon as we can. We aim for a 3 day response time but please be patient if we take longer.' 
